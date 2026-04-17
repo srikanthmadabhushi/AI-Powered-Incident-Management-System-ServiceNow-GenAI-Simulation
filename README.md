@@ -169,7 +169,7 @@ Incident Created: INC0010025
 
 ---
 
-## 💼 Resume Highlights
+## 💼 Highlights
 
 - Built an **AI-powered incident automation system** using ServiceNow
 - Implemented **dynamic classification and decision logic**
